@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.AssemblyInfo.cs
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\bin\Debug\net8.0\InventoryDomain.deps.json
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\bin\Debug\net8.0\InventoryDomain.runtimeconfig.json
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\bin\Debug\net8.0\InventoryDomain.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\bin\Debug\net8.0\InventoryDomain.pdb
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\bin\Debug\net8.0\InventoryInfrastructure.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\bin\Debug\net8.0\InventoryInfrastructure.pdb
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\Inventor.A4436177.Up2Date
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\refint\InventoryDomain.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.pdb
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\InventoryDomain.genruntimeconfig.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryDomain\obj\Debug\net8.0\ref\InventoryDomain.dll
