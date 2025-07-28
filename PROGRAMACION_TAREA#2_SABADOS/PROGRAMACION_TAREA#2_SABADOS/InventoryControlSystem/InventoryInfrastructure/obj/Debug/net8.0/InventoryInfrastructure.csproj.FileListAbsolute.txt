@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\bin\Debug\net8.0\InventoryInfrastructure.deps.json
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\bin\Debug\net8.0\InventoryInfrastructure.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\bin\Debug\net8.0\InventoryInfrastructure.pdb
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\refint\InventoryInfrastructure.dll
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\InventoryInfrastructure.pdb
+C:\Users\User\Desktop\programacion 2\tareas\InventoryControlSystem\InventoryInfrastructure\obj\Debug\net8.0\ref\InventoryInfrastructure.dll
